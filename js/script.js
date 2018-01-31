@@ -17,10 +17,10 @@
 
 // Songs
 var mySong = {
-	"title":"24K Magic",
-	"artist":"Bruno Mars",
-	"mp3-url":"https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P",
-	"image-url":"https://images-na.ssl-images-amazon.com/images/I/71Gr9aCHQfL._SY355_.jpg",
+	"title":"RAF",
+	"artist":"A$AP Rocky, Lil Uzi Vert, Frank Ocean, Quavo, Playboi Carti",
+	"mp3-url":"https://www.youtube.com/watch?v=_eLryuBCO-M",
+	"image-url":"http://hiphop-n-more.com/wp-content/uploads/2017/05/asap-rocky-raf.jpg",
 }
 
 var myPlayList = [
